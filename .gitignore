@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Ses Asistanı Özel Dosyaları
+temp_audio/
+voice_clones/
+*.wav
+*.mp3
+*.m4a
+
+# Model Cache
+.models/

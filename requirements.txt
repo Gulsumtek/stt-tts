@@ -1,0 +1,8 @@
+coqui-tts
+openai-whisper
+gradio
+torch
+sounddevice
+soundfile
+numpy
+ffmpeg-python
